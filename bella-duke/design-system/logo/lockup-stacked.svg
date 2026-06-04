@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" role="img" aria-label="bella+duke stacked lockup">
+  <style>
+    .bd-word {
+      font-family: 'Youth', 'DM Sans', 'Fraunces', sans-serif;
+      font-weight: 700;
+      letter-spacing: -0.025em;
+      fill: #003A3A;
+    }
+  </style>
+  <!-- Mark on top -->
+  <g transform="translate(168, 20) scale(1)">
+    <g fill="#003A3A">
+      <rect x="28" y="14" width="8" height="36" rx="2"/>
+      <rect x="14" y="28" width="36" height="8" rx="2"/>
+      <circle cx="14" cy="14" r="3"/>
+      <circle cx="20" cy="10" r="2"/>
+      <circle cx="50" cy="14" r="3"/>
+      <circle cx="44" cy="10" r="2"/>
+      <circle cx="14" cy="50" r="3"/>
+      <circle cx="20" cy="54" r="2"/>
+      <circle cx="50" cy="50" r="3"/>
+      <circle cx="44" cy="54" r="2"/>
+    </g>
+  </g>
+  <!-- Wordmark below -->
+  <text class="bd-word" x="200" y="170" font-size="60" text-anchor="middle">bella+duke</text>
+</svg>
