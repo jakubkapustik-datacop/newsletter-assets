@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 96" role="img" aria-label="bella+duke horizontal lockup">
+  <style>
+    .bd-word {
+      font-family: 'Youth', 'DM Sans', 'Fraunces', sans-serif;
+      font-weight: 700;
+      font-size: 76px;
+      letter-spacing: -0.025em;
+      fill: #003A3A;
+    }
+  </style>
+  <text class="bd-word" x="0" y="74">bella+duke</text>
+</svg>
