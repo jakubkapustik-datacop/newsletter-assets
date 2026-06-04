@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Bella and Duke mark">
+  <!-- Stylised "+" with paw-spot dots — approximation of the bella+duke central symbol.
+       Per Rule 2 (logo fidelity), the canonical mark lives in logo/source.webp.
+       This SVG is a low-fidelity approximation for use where vectors are required. -->
+  <g fill="#003A3A">
+    <!-- The "+" cross -->
+    <rect x="28" y="14"  width="8" height="36" rx="2"/>
+    <rect x="14" y="28"  width="36" height="8" rx="2"/>
+    <!-- Four paw-spot dot clusters at the diagonal corners -->
+    <!-- top-left -->
+    <circle cx="14" cy="14" r="3"/>
+    <circle cx="20" cy="10" r="2"/>
+    <!-- top-right -->
+    <circle cx="50" cy="14" r="3"/>
+    <circle cx="44" cy="10" r="2"/>
+    <!-- bottom-left -->
+    <circle cx="14" cy="50" r="3"/>
+    <circle cx="20" cy="54" r="2"/>
+    <!-- bottom-right -->
+    <circle cx="50" cy="50" r="3"/>
+    <circle cx="44" cy="54" r="2"/>
+  </g>
+</svg>
